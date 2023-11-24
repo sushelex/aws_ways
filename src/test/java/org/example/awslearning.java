@@ -1,10 +1,12 @@
 package org.example;
 
+//import org.testng.annotations.Test;
+
 import org.testng.annotations.Test;
 
-public class AWSLearning {
+public class awslearning {
 
- //   @Test
+    @Test
     public void doTest()
     {
         System.out.print("this is aws");
